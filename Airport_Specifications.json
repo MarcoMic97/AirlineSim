@@ -1,0 +1,34 @@
+[
+    {
+        "Airport Name": "London Heathrow Airport",
+        "City": "London",
+        "Country": "United Kingdom",
+        "IATA Code": "LHR",
+        "Latitude": 51.4700,
+        "Longitude": -0.4543
+    },
+    {
+        "Airport Name": "Charles de Gaulle Airport",
+        "City": "Paris",
+        "Country": "France",
+        "IATA Code": "CDG",
+        "Latitude": 49.0097,
+        "Longitude": 2.5479
+    },
+    {
+        "Airport Name": "Frankfurt Airport",
+        "City": "Frankfurt",
+        "Country": "Germany",
+        "IATA Code": "FRA",
+        "Latitude": 50.0379,
+        "Longitude": 8.5622
+    },
+    {
+        "Airport Name": "O. R. Tambo International Airport",
+        "City": "Johannesburg",
+        "Country": "South Africa",
+        "IATA Code": "JNB",
+        "Latitude": -26.1392,
+        "Longitude": 28.2469
+    }
+]

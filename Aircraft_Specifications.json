@@ -1,0 +1,72 @@
+[
+    {
+        "Manufacturer":"Boeing",
+        "Model Name and Variant":"737-800",
+        "Max Range (km)":5420,
+        "Max Payload (kg)":20865,
+        "MTOW (kg)":79015,
+        "Empty Weight (kg)":41000,
+        "Fuel Capacity (kg)":20865,
+        "Wingspan (m)":35.8,
+        "Cruise Speed (km\/h)":840,
+        "Year of First Delivery":1998,
+        "Type":"Narrowbody",
+        "Range at 100% Payload (km)":2500
+    },
+    {
+        "Manufacturer":"Boeing",
+        "Model Name and Variant":"787-9 Dreamliner",
+        "Max Range (km)":14100,
+        "Max Payload (kg)":34000,
+        "MTOW (kg)":254000,
+        "Empty Weight (kg)":130000,
+        "Fuel Capacity (kg)":105000,
+        "Wingspan (m)":60.1,
+        "Cruise Speed (km\/h)":903,
+        "Year of First Delivery":2014,
+        "Type":"Widebody",
+        "Range at 100% Payload (km)":8300
+    },
+    {
+        "Manufacturer":"Airbus",
+        "Model Name and Variant":"A320neo",
+        "Max Range (km)":6300,
+        "Max Payload (kg)":21000,
+        "MTOW (kg)":79000,
+        "Empty Weight (kg)":42000,
+        "Fuel Capacity (kg)":21000,
+        "Wingspan (m)":35.8,
+        "Cruise Speed (km\/h)":828,
+        "Year of First Delivery":2016,
+        "Type":"Narrowbody",
+        "Range at 100% Payload (km)":3000
+    },
+    {
+        "Manufacturer":"Airbus",
+        "Model Name and Variant":"A350-900",
+        "Max Range (km)":15000,
+        "Max Payload (kg)":36000,
+        "MTOW (kg)":280000,
+        "Empty Weight (kg)":134000,
+        "Fuel Capacity (kg)":140000,
+        "Wingspan (m)":64.8,
+        "Cruise Speed (km\/h)":905,
+        "Year of First Delivery":2015,
+        "Type":"Widebody",
+        "Range at 100% Payload (km)":9000
+    },
+    {
+        "Manufacturer":"Embraer",
+        "Model Name and Variant":"E190-E2",
+        "Max Range (km)":5300,
+        "Max Payload (kg)":13000,
+        "MTOW (kg)":56000,
+        "Empty Weight (kg)":28000,
+        "Fuel Capacity (kg)":13000,
+        "Wingspan (m)":33.7,
+        "Cruise Speed (km\/h)":870,
+        "Year of First Delivery":2018,
+        "Type":"Regional Jet",
+        "Range at 100% Payload (km)":2700
+    }
+]
