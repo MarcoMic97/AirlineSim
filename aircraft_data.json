@@ -1,0 +1,702 @@
+[
+    {
+        "Manufacturer": "Airbus",
+        "Model": "Airbus A300",
+        "Range": 7500
+    },
+    {
+        "Manufacturer": "Airbus",
+        "Model": "Airbus A300-600",
+        "Range": 7700
+    },
+    {
+        "Manufacturer": "Airbus",
+        "Model": "Airbus A300-600ST Super Transporter / Beluga",
+        "Range": 1667
+    },
+    {
+        "Manufacturer": "Airbus",
+        "Model": "Airbus A310",
+        "Range": 9600
+    },
+    {
+        "Manufacturer": "Airbus",
+        "Model": "Airbus A318",
+        "Range": 5750
+    },
+    {
+        "Manufacturer": "Airbus",
+        "Model": "Airbus A319",
+        "Range": 6850
+    },
+    {
+        "Manufacturer": "Airbus",
+        "Model": "Airbus A319neo",
+        "Range": 7400
+    },
+    {
+        "Manufacturer": "Airbus",
+        "Model": "Airbus A320",
+        "Range": 6150
+    },
+    {
+        "Manufacturer": "Airbus",
+        "Model": "Airbus A320neo",
+        "Range": 6300
+    },
+    {
+        "Manufacturer": "Airbus",
+        "Model": "Airbus A321",
+        "Range": 5950
+    },
+    {
+        "Manufacturer": "Airbus",
+        "Model": "Airbus A321neo",
+        "Range": 7400
+    },
+    {
+        "Manufacturer": "Airbus",
+        "Model": "Airbus A330",
+        "Range": 13450
+    },
+    {
+        "Manufacturer": "Airbus",
+        "Model": "Airbus A330-200",
+        "Range": 13450
+    },
+    {
+        "Manufacturer": "Airbus",
+        "Model": "Airbus A330-300",
+        "Range": 11750
+    },
+    {
+        "Manufacturer": "Airbus",
+        "Model": "Airbus A330-700 Beluga XL",
+        "Range": 4000
+    },
+    {
+        "Manufacturer": "Airbus",
+        "Model": "Airbus A330-800neo",
+        "Range": 15094
+    },
+    {
+        "Manufacturer": "Airbus",
+        "Model": "Airbus A330-900neo",
+        "Range": 13334
+    },
+    {
+        "Manufacturer": "Airbus",
+        "Model": "Airbus A340",
+        "Range": 15000
+    },
+    {
+        "Manufacturer": "Airbus",
+        "Model": "Airbus A340-200",
+        "Range": 14800
+    },
+    {
+        "Manufacturer": "Airbus",
+        "Model": "Airbus A340-300",
+        "Range": 13700
+    },
+    {
+        "Manufacturer": "Airbus",
+        "Model": "Airbus A340-500",
+        "Range": 16670
+    },
+    {
+        "Manufacturer": "Airbus",
+        "Model": "Airbus A340-600",
+        "Range": 14450
+    },
+    {
+        "Manufacturer": "Airbus",
+        "Model": "Airbus A350",
+        "Range": 15000
+    },
+    {
+        "Manufacturer": "Airbus",
+        "Model": "Airbus A350-1000",
+        "Range": 16100
+    },
+    {
+        "Manufacturer": "Airbus",
+        "Model": "Airbus A350-900",
+        "Range": 15000
+    },
+    {
+        "Manufacturer": "Airbus",
+        "Model": "Airbus A380",
+        "Range": 15200
+    },
+    {
+        "Manufacturer": "Airbus",
+        "Model": "Airbus A380-800",
+        "Range": 15200
+    },
+    {
+        "Manufacturer": "Antonov",
+        "Model": "Antonov AN-12",
+        "Range": 3600
+    },
+    {
+        "Manufacturer": "Antonov",
+        "Model": "Antonov AN-124 Ruslan",
+        "Range": 5400
+    },
+    {
+        "Manufacturer": "Antonov",
+        "Model": "Antonov AN-140",
+        "Range": 2100
+    },
+    {
+        "Manufacturer": "Antonov",
+        "Model": "Antonov An-148",
+        "Range": 4400
+    },
+    {
+        "Manufacturer": "Antonov",
+        "Model": "Antonov An-158",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "Antonov",
+        "Model": "Antonov An-225 Mriya",
+        "Range": 15400
+    },
+    {
+        "Manufacturer": "Antonov",
+        "Model": "Antonov AN-24",
+        "Range": 2400
+    },
+    {
+        "Manufacturer": "Antonov",
+        "Model": "Antonov AN-26",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "Antonov",
+        "Model": "Antonov AN-28",
+        "Range": 1200
+    },
+    {
+        "Manufacturer": "Antonov",
+        "Model": "Antonov AN-30",
+        "Range": 2600
+    },
+    {
+        "Manufacturer": "Antonov",
+        "Model": "Antonov AN-32",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "Antonov",
+        "Model": "Antonov AN-72",
+        "Range": 4200
+    },
+    {
+        "Manufacturer": "Avro",
+        "Model": "Avro RJ100",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "Avro",
+        "Model": "Avro RJ70",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "Avro",
+        "Model": "Avro RJ85",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "BAe",
+        "Model": "BAe 146",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "BAe",
+        "Model": "BAe 146-100",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "BAe",
+        "Model": "BAe 146-200",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "BAe",
+        "Model": "BAe 146-300",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "Beechcraft",
+        "Model": "Beechcraft 1900",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "Beechcraft",
+        "Model": "Beechcraft Baron",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "Beechcraft",
+        "Model": "Beechcraft Baron / 55 Baron",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "Bell",
+        "Model": "Bell 212",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 707",
+        "Range": 9400
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 717",
+        "Range": 3820
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 720B",
+        "Range": 5000
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 727",
+        "Range": 4800
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 727-100",
+        "Range": 4800
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 727-200",
+        "Range": 4800
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 737",
+        "Range": 6300
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 737 MAX 10",
+        "Range": 6570
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 737 MAX 7",
+        "Range": 7130
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 737 MAX 8",
+        "Range": 6570
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 737 MAX 9",
+        "Range": 6570
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 737-200",
+        "Range": 4630
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 737-300",
+        "Range": 4630
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 737-400",
+        "Range": 4630
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 737-500",
+        "Range": 4630
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 737-600",
+        "Range": 4630
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 737-700",
+        "Range": 6370
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 737-800",
+        "Range": 5765
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 737-900",
+        "Range": 5925
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 747",
+        "Range": 13450
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 747 LCF Dreamlifter",
+        "Range": 7800
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 747-100",
+        "Range": 9800
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 747-200",
+        "Range": 12700
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 747-300",
+        "Range": 12400
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 747-400",
+        "Range": 13450
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 747-400D",
+        "Range": 7670
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 747-8",
+        "Range": 14320
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 747SP",
+        "Range": 12320
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 747SR",
+        "Range": 7670
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 757",
+        "Range": 7250
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 757-200",
+        "Range": 7250
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 757-300",
+        "Range": 6287
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 767",
+        "Range": 12200
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 767-200",
+        "Range": 12200
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 767-300",
+        "Range": 11065
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 767-400",
+        "Range": 10418
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 777",
+        "Range": 15843
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 777-200",
+        "Range": 15843
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 777-200LR",
+        "Range": 17446
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 777-300",
+        "Range": 13650
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 777-300ER",
+        "Range": 13650
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 777-8",
+        "Range": 16170
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 777-9",
+        "Range": 13940
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 787",
+        "Range": 15200
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 787-10",
+        "Range": 11910
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 787-8",
+        "Range": 13530
+    },
+    {
+        "Manufacturer": "Boeing",
+        "Model": "Boeing 787-9",
+        "Range": 14140
+    },
+    {
+        "Manufacturer": "Bombardier",
+        "Model": "Bombardier 415",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "Bombardier",
+        "Model": "Bombardier BD-100 Challenger 300",
+        "Range": 5741
+    },
+    {
+        "Manufacturer": "Bombardier",
+        "Model": "Bombardier CS100",
+        "Range": 6112
+    },
+    {
+        "Manufacturer": "Bombardier",
+        "Model": "Bombardier CS300",
+        "Range": 6112
+    },
+    {
+        "Manufacturer": "Bombardier",
+        "Model": "Bombardier Global Express",
+        "Range": 11390
+    },
+    {
+        "Manufacturer": "British",
+        "Model": "British Aerospace (BAC) One Eleven",
+        "Range": 3200
+    },
+    {
+        "Manufacturer": "British",
+        "Model": "British Aerospace 125 series / Hawker/Raytheon 700/800/800XP/850/900",
+        "Range": 5741
+    },
+    {
+        "Manufacturer": "British",
+        "Model": "British Aerospace 125-1000 series / Hawker/Raytheon 1000",
+        "Range": 5741
+    },
+    {
+        "Manufacturer": "British",
+        "Model": "British Aerospace ATP",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "British",
+        "Model": "British Aerospace Jetstream 31",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "British",
+        "Model": "British Aerospace Jetstream 32",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "British",
+        "Model": "British Aerospace Jetstream 41",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "Canadair",
+        "Model": "Canadair Challenger",
+        "Range": 5741
+    },
+    {
+        "Manufacturer": "Canadair",
+        "Model": "Canadair CL-44",
+        "Range": 5741
+    },
+    {
+        "Manufacturer": "Canadair",
+        "Model": "Canadair Regional Jet 100",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "Canadair",
+        "Model": "Canadair Regional Jet 1000",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "Canadair",
+        "Model": "Canadair Regional Jet 200",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "Canadair",
+        "Model": "Canadair Regional Jet 700",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "Canadair",
+        "Model": "Canadair Regional Jet 900",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "Cessna",
+        "Model": "Cessna 152",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "Cessna",
+        "Model": "Cessna 172",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "Cessna",
+        "Model": "Cessna 182 Skylane",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "Cessna",
+        "Model": "Cessna 208 Caravan",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "Cessna",
+        "Model": "Cessna 210 Centurion",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "Cessna",
+        "Model": "Cessna Citation CJ3",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "Cessna",
+        "Model": "Cessna Citation CJ4",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "Cessna",
+        "Model": "Cessna Citation Excel",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "Cessna",
+        "Model": "Cessna Citation I",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "Cessna",
+        "Model": "Cessna Citation II",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "Cessna",
+        "Model": "Cessna Citation Mustang",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "Cessna",
+        "Model": "Cessna Citation Sovereign",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "Cessna",
+        "Model": "Cessna Citation X",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "COMAC",
+        "Model": "COMAC C-919",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "Concorde",
+        "Model": "Concorde",
+        "Range": 7250
+    },
+    {
+        "Manufacturer": "Dassault",
+        "Model": "Dassault Falcon 2000",
+        "Range": 7250
+    },
+    {
+        "Manufacturer": "Dassault",
+        "Model": "Dassault Falcon 50",
+        "Range": 7250
+    },
+    {
+        "Manufacturer": "Dassault",
+        "Model": "Dassault Falcon 7X",
+        "Range": 7250
+    },
+    {
+        "Manufacturer": "Dassault",
+        "Model": "Dassault Falcon 900",
+        "Range": 7250
+    },
+    {
+        "Manufacturer": "De",
+        "Model": "De Havilland Canada DHC-2 Beaver",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "De",
+        "Model": "De Havilland Canada DHC-2 Turbo-Beaver",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "De",
+        "Model": "De Havilland Canada DHC-3 Otter",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "De",
+        "Model": "De Havilland Canada DHC-4 Caribou",
+        "Range": 2500
+    },
+    {
+        "Manufacturer": "De",
+        "Model": "De Havilland Canada DHC-6 Twin Otter",
+        "Range": 2500
+    }
+]

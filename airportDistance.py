@@ -25,7 +25,7 @@ def load_airports():
 
 # Load aircraft data
 def load_aircraft():
-    with open("Aircraft_Specifications.json", "r") as file:
+    with open("aircraft_data.json", "r") as file:
         return json.load(file)
 
 # Get airport data by IATA code
@@ -37,13 +37,14 @@ def get_airport_by_iata(iata_code, airports_data):
 
 # Calculate adjusted range based on load percentage
 def calculate_range_at_load(load_percentage, max_range):
-    if load_percentage <= 80:
+    if load_percentage <= 70:
         return max_range
     else:
         # Adjust this constant for realism
         k = 0.0025  # Determines how quickly range decreases above 80%
         return max_range * (1 - k * (load_percentage - 80) ** 2)
 
+# Find aircraft that can cover the distance and satisfy the load percentage
 # Find aircraft that can cover the distance and satisfy the load percentage
 def find_aircraft_for_route(iata_code1, iata_code2, load_percentage):
     # Load airport and aircraft data
@@ -66,13 +67,25 @@ def find_aircraft_for_route(iata_code1, iata_code2, load_percentage):
     # Find suitable aircraft
     suitable_aircraft = []
     for aircraft_info in aircraft:
-        max_range = aircraft_info["Max Range (km)"]
+        model_info = aircraft_info["Model"]
+        if " " in model_info:
+            manufacturer, model = model_info.split(" ", 1)  # Split Manufacturer and Model
+        else:
+            manufacturer = model_info
+            model = ""  # In case the model doesn't have a space and only contains the manufacturer name
+
+        max_range = aircraft_info["Range"]
         adjusted_range = calculate_range_at_load(load_percentage, max_range)
         if adjusted_range >= distance:
             suitable_aircraft.append({
-                "Model Name and Variant": aircraft_info["Model Name and Variant"],
-                "Adjusted Range (km)": adjusted_range
+                "Manufacturer": manufacturer,
+                "Model": model,
+                "Adjusted Range (km)": adjusted_range,
+                "Overhead (km)": adjusted_range - distance
             })
+
+    # Sort the aircraft by the smallest overhead in adjusted range
+    suitable_aircraft.sort(key=lambda x: x["Overhead (km)"])
 
     if suitable_aircraft:
         return suitable_aircraft
@@ -88,6 +101,6 @@ available_aircraft = find_aircraft_for_route(iata_code1, iata_code2, load_percen
 if isinstance(available_aircraft, list):
     print("\nAvailable Aircraft:")
     for aircraft in available_aircraft:
-        print(f" - {aircraft['Model Name and Variant']} (Adjusted Range: {aircraft['Adjusted Range (km)']:.2f} km)")
+        print(f" - {aircraft['Manufacturer']} {aircraft['Model']} (Adjusted Range: {aircraft['Adjusted Range (km)']:.2f} km)")
 else:
     print(available_aircraft)
